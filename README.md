@@ -1,18 +1,18 @@
 # Track 1 – Day 27 – AI Team Lab
 
 - Team: Đường bốn mùa xuân
-- Thành viên (3–5 người):
+- Thành viên:
   - Vũ Thế Lực – 2A202602008 (trưởng nhóm) – AI Product / Founder
   - Hoàng Tuấn Hưng – 2A202601911 – AI Engineer
   - Đỗ Thị Thanh Loan – 2A202601654 – Data / Backend
   - Nguyễn Thị Nam Phương – 2A202601720 – Eval / QA / UX
 - Tên dự án: Nera – trợ lý AI tìm nhà và đặt lịch xem nhà qua hội thoại
-- Link sản phẩm/demo (nếu có): https://www.nerahome.space/
+- Link sản phẩm/demo: https://www.nerahome.space/
 
 ## Nội dung
 
 Bài làm áp dụng nội dung buổi học lên chính dự án Nera. Bốn artefact trong file PDF
-`Day27_AI-Team-Lab_DuongBonMuaXuan.pdf` (4 trang):
+`Day27_AI-Team-Lab_DuongBonMuaXuan.pdf`:
 
 1. Stakeholder Map & Strategy
 2. Pitch (kết luận trước) & RACI Matrix
