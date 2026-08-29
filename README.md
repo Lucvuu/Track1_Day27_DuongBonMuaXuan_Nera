@@ -4,7 +4,7 @@
 - Thành viên (3–5 người):
   - Vũ Thế Lực – 2A202602008 (trưởng nhóm) – AI Product / Founder
   - Hoàng Tuấn Hưng – 2A202601911 – AI Engineer
-  - Đỗ Thanh Loan – 2A202601654 – Data / Backend
+  - Đỗ Thị Thanh Loan – 2A202601654 – Data / Backend
   - Nguyễn Thị Nam Phương – 2A202601720 – Eval / QA / UX
 - Tên dự án: Nera – trợ lý AI tìm nhà và đặt lịch xem nhà qua hội thoại
 - Link sản phẩm/demo (nếu có): https://www.nerahome.space/
